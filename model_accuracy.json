@@ -1,0 +1,6 @@
+{
+  "logistic_regression_accuracy": 0.7845060063741113,
+  "cnn_accuracy": 0.7941284775733948,
+  "test_samples": 16316,
+  "train_samples": 38068
+}
